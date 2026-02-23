@@ -1,20 +1,36 @@
 {
   "pages": {
-    "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
+    "/_not-found/page": [
+      "static/chunks/webpack-2eb758dea75faf50.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-ebd51be49873d76c.js",
+      "static/chunks/main-app-19d7970c166b17be.js",
+      "static/chunks/app/_not-found/page-b8846c1d3c25fce1.js"
     ],
-    "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
+    "/layout": [
+      "static/chunks/webpack-2eb758dea75faf50.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-ebd51be49873d76c.js",
+      "static/chunks/main-app-19d7970c166b17be.js",
+      "static/css/35a2cfc081603ed8.css",
+      "static/chunks/app/layout-628537fd068ee90a.js"
     ],
     "/produtos/e-mtb/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/produtos/e-mtb/page.js"
+      "static/chunks/webpack-2eb758dea75faf50.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-ebd51be49873d76c.js",
+      "static/chunks/main-app-19d7970c166b17be.js",
+      "static/chunks/319-d76750e8d9f64bb1.js",
+      "static/chunks/app/produtos/e-mtb/page-7bcadc7b8c66e138.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-2eb758dea75faf50.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-ebd51be49873d76c.js",
+      "static/chunks/main-app-19d7970c166b17be.js",
+      "static/chunks/319-d76750e8d9f64bb1.js",
+      "static/chunks/661-cf20ad7d1aafcf1c.js",
+      "static/chunks/app/page-3bbe3cfc0e9b6aad.js"
     ]
   }
 }
